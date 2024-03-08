@@ -4,4 +4,32 @@
 
  }
 
- 
+ body {
+    background: black;
+ }
+
+ h1 {
+    text-align: center;
+    color: aquamarine;
+ }
+
+ header p {
+    color: white;
+    text-align: center;
+ }
+
+ section {
+    border: 2px white dashed;
+ }
+
+ h2 {
+    color: aquamarine;
+    border: 2px white solid;
+    z-index: 1;
+    border-radius: 10px;
+ }
+
+ section p {
+    color: aquamarine;
+
+ }
