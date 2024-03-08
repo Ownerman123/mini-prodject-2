@@ -1,7 +1,17 @@
 .conainer {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
 
  }
 
- 
+ section {
+    float: inline-start;
+    background-color: grey;
+    margin: 20px;
+    width: 25% ;
+
+ }
+ footer {
+    bottom: 0px;
+ }
